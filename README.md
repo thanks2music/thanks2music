@@ -1,4 +1,10 @@
-## Hi there 👋
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanks2music&layout=donut)](https://github.com/thanks2music/thanks2music)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanks2music)](https://github.com/thanks2music/thanks2music)-->
+
+---
+
+## Hi, I'm Yoshiyuki Ito 🙋‍♂️
 
 <!--
 **thanks2music/thanks2music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
