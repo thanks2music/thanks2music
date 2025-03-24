@@ -10,22 +10,26 @@
 
 I'm a web developer working remotely from Fukuoka, Japan, living with my beloved wife, a cat named Mika, and a toy poodle named Yoru.
 
-I love pets (dogs, cats, birds—basically all animals), music, anime, manga, movies, TV dramas, games, basketball, and programming.
+I love family and pets (dogs, cats, birds—basically all animals), music, anime, manga, movies, TV dramas, games, basketball, and programming.
 
 ### 📝 I’m currently learning
 
 - TypeScript
 - ChatGPT API
-- Google Cloud
-- AWS
-- Firebase
 - English
 
-### 🍀 My favorite language
+### 🍀 My favorite framework and library
 
-- React.js
-- Next.js
-- Node.js
+- FrontEnd
+  - React.js
+  - Next.js
+- BackEnd
+  - Node.js
+  - PHP
+- Headless CMS
+  - Payload
+- CMS
+  - WordPress
 
 ## 🏀 My hobbies
 
@@ -57,19 +61,19 @@ Here are some of the genres I often listen to:
 
 ### :octocat: Musician
 
-- Daft Punk
-- Bag Raiders
-- Sakanaction
-- Nikolai Kapustin
-- Social Distortion
-- Satanic Surfers
+- 🎧 Daft Punk
+- 👜 Bag Raiders
+- 🐟 Sakanaction
+- 🎹 Nikolai Kapustin
+- 🆒 Social Distortion
+- 🏄 Satanic Surfers
 
 ### 📖 Manga
 
-- Tokyo Ghoul
-- SLAM DUNK
-- BLUE GIANT
-- Haikyuu!!
+- 🗾 Tokyo Ghoul
+- 🏀 SLAM DUNK
+- 🎵 BLUE GIANT
+- 🏐 Haikyuu!!
 - Attack on Titan
 - Ranking of Kings
 - Land of the Lustrous
