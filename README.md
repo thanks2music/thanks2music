@@ -4,13 +4,23 @@
 
 # Hi, I'm Yoshiyuki Ito 🙋‍♂️
 
-![ALT](https://i.gyazo.com/128458444fbbd367550f223c9790dbed.jpg)
+![@thanks2music | Yoshiyuki Ito](https://i.gyazo.com/128458444fbbd367550f223c9790dbed.jpg)
 
 ## 👨‍💻 🦮 WE ARE ALL ONE 🐈 🎩
 
 I'm a web developer working remotely from Fukuoka, Japan, living with my beloved wife, a cat named Mika, and a toy poodle named Yoru.
 
 I love family and pets (dogs, cats, birds—basically all animals), music, anime, manga, movies, TV dramas, games, basketball, and programming.
+
+and My grandfather is the noble Golden Retriever named Ben. When I was a child, I was taught by my beloved Ben that “the world is WE ARE ALL ONE, so be kind to others.”
+
+<table>
+  <tr>
+    <td align="center"><img src="https://gyazo.com/9618bff176230ac3633fe5cf93f8ed6a/raw" width="300" alt="ベン Ben Ven" />Ben</td>
+    <td align="center"><img src="https://gyazo.com/59e323f074e546ccf7a8d2d4a556e2a7/raw" width="300" alt="三日月 ミカ Mika" />Mika</td>
+    <td align="center"><img src="https://gyazo.com/2564df60168c0cce49c9a66f1215ff96/raw"  width="300" alt="夜空 ヨル Yoru" />Yoru</td>
+  </tr>
+</table>
 
 ### 📝 I’m currently learning
 
