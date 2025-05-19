@@ -25,8 +25,9 @@ and My grandfather is the noble Golden Retriever named Ben. When I was a child, 
 ### 📝 I’m currently learning
 
 - TypeScript
-- ChatGPT API
 - English
+- Cloud Platform
+- ChatGPT, Claude, Gemini API
 
 ### 🍀 My favorite framework and library
 
